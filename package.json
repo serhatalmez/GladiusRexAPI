@@ -1,0 +1,19 @@
+{
+  "name": "gladiusrexapi",
+  "version": "0.0.1",
+  "description": "API",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.2",
+    "io-session-handler": "^1.0.74",
+    "mongoose": "^6.1.4",
+    "socket.io": "^4.4.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "username-taken": {
+        "TR": "Kullanıcı zaten mevcut",
+        "EN": "User already exist",
+        "code": "user-exist"
+    },
+    "user-not-found" : {
+        "TR": "Kullanıcı bulunamadı veya şifre hatalı",
+        "EN": "User not found or password is wrong",
+        "code": "user-not-found"
+    },
+    "unexpected-error-try-later": {
+        "TR": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+        "EN": "Unexpected error. Please try again later.",
+        "code": "unexpected-error-try-later"
+    }
+}

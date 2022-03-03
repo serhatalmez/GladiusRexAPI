@@ -1,6 +1,6 @@
 # GladiusRexAPI
 
-A simple socket.io API based node.js
+A simple socket.io API based node.js<br>
 Made with ♥ by almez#9087 & goodluck#7724
 
 Installation:
